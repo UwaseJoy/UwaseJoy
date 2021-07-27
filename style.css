@@ -155,7 +155,7 @@ footer{
 	font-size: 17px;
 	font-weight: bold;
 	text-align: center;
-	background: grey;
+	background: white;
 	color: black;
 	letter-spacing: 1px;
 }
@@ -181,7 +181,7 @@ p{
 	padding: 10px;
 }
 .card{
-	background: #ffffff;
+	background: gray;
 	padding: 5px 20px;
 	margin: 40px 30px;
 	width: calc(33% - 20px);
