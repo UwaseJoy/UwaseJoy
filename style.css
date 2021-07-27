@@ -102,7 +102,7 @@ p{
 }
 .About-col{
 	flex-basis: 31%;
-	background: #E5E5E5;
+	background: #ffffff;
 	border-radius: 10px;
 	margin-bottom:5%;
 	padding: 12px 20px;
@@ -181,7 +181,7 @@ p{
 	padding: 10px;
 }
 .card{
-	background: #E5E5E5;
+	background: #ffffff;
 	padding: 5px 20px;
 	margin: 40px 30px;
 	width: calc(33% - 20px);
